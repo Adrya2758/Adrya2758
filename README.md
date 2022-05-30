@@ -1,0 +1,5 @@
+- # Sobre mim:
+- 👋 olá meu nome é @Adrya2758
+- 👍 meu imail de contato é adrya.abreu@escola.pr.gov.br
+- 👀 Quero aprender a programar novas linguagens de programação!
+- 🌱 Eu estava aprendendo a programar a linguagem do javaScript e Scratc.
